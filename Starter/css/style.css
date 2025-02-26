@@ -1,3 +1,40 @@
 body {
-  background-color:#ffffff;
+  background-color:#ffcd00;
+}
+p{color:#000000}
+
+h1{color:#8c16e3 }
+
+h2{color:#8c16e3}
+
+h1{
+  font-family: "Bungee Spice", serif;
+  font-weight: 400;
+  font-style: normal;
+  ;
+}
+
+p{
+  font-family: "Sancreek", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+ul{
+  font-family: "Sancreek", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2{
+  font-family: "Sancreek", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+a {
+  color: #8c16e3;
+}
+.subhead {
+  color: magenta;
+  font-weight: 900;
 }
