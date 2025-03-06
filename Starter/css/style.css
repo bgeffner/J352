@@ -38,3 +38,46 @@ a {
   color: magenta;
   font-weight: 900;
 }
+
+.photoLeft {
+float:left;
+border:solid 1px #fff;
+padding:3px;
+margin:20px 0 20px 20px;
+font-size:.90rem;
+color:#fff;
+}
+
+.photoRight {
+float:right;
+border:solid 4px #fff;
+padding:3px;
+margin:0px 0 0px 0px;
+font-size:.90rem;
+color:#fff;
+text-align:center;
+background-color: #8c16e3;
+font-family: "Sancreek", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 2px 2px black;
+}
+
+
+.footerStyle {
+text-align:center;
+background-color:#8c16e3;
+padding:20px;
+color:#fff;
+font-family: "Sancreek", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 2px 2px black;
+}
+
+.citation {
+  border:solid 8px #8c16e3;
+  padding:7px;
+  border-radius:9px;
+  background-image: linear-gradient(orange, yellow);
+  box-shadow: 10px 10px orangered;
